@@ -1,0 +1,1 @@
+imparesCuadrado xs = [x*x | x <- xs, odd x]
